@@ -1,7 +1,10 @@
 # MERN CRUD APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+Features:
+- Display dynamic user
+- Add new user
+- Update user
+- Delete user
 
 - [Live Link](https://mdabarik-mern-crud-app.surge.sh/)
+- [Server Code](https://github.com/mdabarik/mern-crud-server)
